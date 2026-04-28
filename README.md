@@ -1,6 +1,6 @@
 <h1>Implement Depth First Search Traversal of a Graph</h1> 
-<h3>NAME: K L RAVEENDRANATH</h3>
-<h3>REGISTER NUMBER: 212224060212    </h3>
+<h3>NAME: MOHAMMED SAFI F</h3>
+<h3>REGISTER NUMBER: 212224060156    </h3>
 <H3>AIM</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.  </p>
 <h3>THEORY</h3>
@@ -108,7 +108,7 @@ traversedpath=dfs(graph,start,visited,path)
 print(traversedpath)
 ```
 <h3>OUTPUT</h3>
-<img width="278" height="112" alt="image" src="https://github.com/user-attachments/assets/4bbc36af-c656-46ea-bb0e-797c4b0dcc11" />
+<img width="844" height="173" alt="image" src="https://github.com/user-attachments/assets/5ed623d8-2e74-4bf7-911e-26aa8ee39828" />
 
 <hr>
 <h3>RESULT</h3>
